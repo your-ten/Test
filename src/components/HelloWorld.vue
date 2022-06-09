@@ -63,6 +63,7 @@
     {"x":2,"y":6,"w":2,"h":2,"i":"19"}
   ];
   export default {
+    // 忽略本地修改内容
     props: {
       GridLayout: VueGridLayout.GridLayout,
       GridItem: VueGridLayout.GridItem
